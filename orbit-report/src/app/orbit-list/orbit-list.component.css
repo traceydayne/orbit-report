@@ -26,3 +26,13 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+
+.warning {
+    background-color: red;
+}
+
+.probe {
+    background-color: green;
+}
+
+
