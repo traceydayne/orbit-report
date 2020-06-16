@@ -27,12 +27,8 @@ th, td {
     padding: 6px;
 }
 
-.warning {
-    background-color: red;
-}
-
-.probe {
-    background-color: green;
+tr:nth-child(even) {
+    background: #82a8ce;
 }
 
 
